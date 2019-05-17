@@ -1,2 +1,3 @@
 # talentrepo
-## Alejandro Pastelin Enciso
+Luis Nicanor
+Alejandro Pastelin Enciso
